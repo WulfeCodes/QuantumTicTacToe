@@ -1,0 +1,1 @@
+This game implements a simple quantum circuit with qiskit. Upon each move a super position (H Gate) is created and the output is computed based on the probability of the state of the respected players' move. The game logic is then calculated and the app state is updated until an ending is reached.
